@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "16020825527",
+    "firebase_url": "https://joes-pizzeria.firebaseio.com",
+    "project_id": "joes-pizzeria",
+    "storage_bucket": "joes-pizzeria.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16020825527:android:c333f48c050a2832",
+        "android_client_info": {
+          "package_name": "com.example.bharat.joespizzeria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16020825527-475a9h0bbpfjblstpv97gsgpe2bc9v4p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bharat.joespizzeria",
+            "certificate_hash": "af9b19a1c604cb07171954da1b65bdba8326ff52"
+          }
+        },
+        {
+          "client_id": "16020825527-aede5127q0rr8lqep74ril796hudb8hb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiZ2eywlIVHZieiwJYJcnKvo7V_s7mpnQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16020825527-aede5127q0rr8lqep74ril796hudb8hb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16020825527:android:e887f526e90b8c32",
+        "android_client_info": {
+          "package_name": "bharat.example.com.jp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16020825527-fmrfkju908fsgqddqflee82bfju4f5c4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bharat.example.com.jp",
+            "certificate_hash": "af9b19a1c604cb07171954da1b65bdba8326ff52"
+          }
+        },
+        {
+          "client_id": "16020825527-aede5127q0rr8lqep74ril796hudb8hb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiZ2eywlIVHZieiwJYJcnKvo7V_s7mpnQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16020825527-aede5127q0rr8lqep74ril796hudb8hb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

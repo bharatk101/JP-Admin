@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">JP</string>
+    <string name="joe_s_pizzeria">Joe\'s Pizzeria</string>
+    <string name="dialog_change_photo">ChangePhotoDialog</string>
+    <string name="password">Password (Min 6 Char)</string>
+    <string name="signin">Sign In</string>
+    <string name="facebookln">Sign In with Facebook</string>
+    <string name="or">OR</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="register">Register</string>
+    <string name="resend_email_verification">Resend Email Verification</string>
+    <string name="new_user">New User?</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="change_password">Change Password</string>
+    <string name="current_password">Current Password</string>
+    <string name="save">Save</string>
+    <string name="phone">Phone</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="dbnode_users">users</string>
+    <string name="field_name">name</string>
+    <string name="field_phone">phone</string>
+    <string name="field_profile_image">profile_image</string>
+    <string name="name_of_the_menu">Name of the menu</string>
+    <string name="name_of_the_food">Name of the Food</string>
+    <string name="about_app">About App</string>
+    <string name="ver_0_0_1">Ver 0.0.1 α</string>
+    <string name="rs">\u20B9</string>
+
+    <string-array name="status">
+        <item>Order Placed</item>
+        <item>Order Confirmation</item>
+        <item>Out for Delivery</item>
+        <item>Delivered</item>
+    </string-array>
+</resources>
